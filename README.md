@@ -1,4 +1,4 @@
 # apnacollege-demo
 This my first Git Repository.
 <br>
-Author - prem devasi
+Author - prem (apana coolege)
